@@ -1,1 +1,1 @@
-multiarch/alpine:aarch64-edge
+multiarch/qemu-user-static:register
