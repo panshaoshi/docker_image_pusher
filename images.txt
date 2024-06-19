@@ -1,1 +1,1 @@
-elastic/filebeat:8.14.1
+multiarch/alpine:aarch64-edge
