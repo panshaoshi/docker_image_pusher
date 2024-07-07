@@ -1,1 +1,1 @@
-multiarch/qemu-user-static:register
+nginx:1.17.6
