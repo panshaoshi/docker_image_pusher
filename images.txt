@@ -1,1 +1,1 @@
-elamas/sonarqube-7.6
+dperson/samba
